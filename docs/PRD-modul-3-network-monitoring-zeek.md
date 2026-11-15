@@ -17,7 +17,7 @@ TryLearnMe adalah website belajar keamanan jaringan milik pribadi, dibuat dari s
 | Lokasi screenshot sumber | `D:\Code\Cybersecurity\Tryhackme\` (satu folder per room) |
 | Stack | React 18, Vite 5, TypeScript, react-router-dom v6 (HashRouter), vitest |
 | Backend | Tidak ada. Progress di `localStorage` (`trylearnme:progress:v1`) |
-| Git | Bukan repo git. Jangan commit atau push kecuali diminta |
+| Git | Repo publik `github.com/Maan-py/trylearnme`. Jangan commit atau push kecuali diminta, dan tanpa baris "Co-Authored-By" untuk AI |
 | Perintah | `npm run dev`, `npm run build`, `npm test`, `npx tsc --noEmit` |
 
 Modul yang sudah ada:

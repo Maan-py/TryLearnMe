@@ -116,7 +116,7 @@ Jangan diubah tanpa bertanya.
 | Stack | React 18, Vite 5, TypeScript, react-router-dom v6 (HashRouter), vitest |
 | Backend | Tidak ada |
 | Build | Statis, `base: './'`, bisa dibuka dari folder mana pun |
-| Git | Bukan repo git |
+| Git | Repo publik `github.com/Maan-py/trylearnme`, cabang `main`. Commit tanpa baris "Co-Authored-By" untuk AI |
 
 ```
 src/
